@@ -4,7 +4,7 @@ intended usecase: compiled executable in path for quick access
 
 ## usage
 program accepts time ONLY in format: `HH:mm`<br>
-values not zero-padded are tolerated
+for hours, values not zero-padded are tolerated
 
 ## installation
 windows: `go build` in project root
