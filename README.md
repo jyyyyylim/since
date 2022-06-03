@@ -1,5 +1,5 @@
 # since
-quickly count back from present time, usage intended to be within the scope of a day<br>
+quickly count back from present time, usage intended to be within the scope of 24h<br>
 intended usecase: compiled executable in path for quick access
 
 ## usage
