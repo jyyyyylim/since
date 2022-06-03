@@ -1,6 +1,6 @@
 # since
 quickly count back from present time, usage intended to be within the scope of 24h<br>
-intended usecase: compiled executable in path for quick access
+intended usecase: compiled executable in PATH for quick access
 
 ## usage
 program accepts time in formats: `HH:mm` and `HH mm`<br>
