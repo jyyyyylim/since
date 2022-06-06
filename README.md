@@ -19,6 +19,6 @@ usage examples:
 for hours, values not zero-padded are tolerated<br>
 failsafes will be added when deemed necessary
 
-## installation
-windows: `go build` in project root
+## compilation
+`go build` in project root, assuming go/bin is already in PATH. may vary with env and associated aliases
 
